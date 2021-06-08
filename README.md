@@ -32,15 +32,9 @@
 </p>
 
 ## Python For Change Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PythonForChange&show_icons=true&theme=cobalt&hide=[%22contribs%22]" />
-</a>
 </p>
 <p align="center">
   <a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PythonForChange&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pythonforchange&layout=compact">
 </p>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/PythonForChange/count.svg" />
-</p>
+
