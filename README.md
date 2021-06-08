@@ -31,10 +31,4 @@
     <img src="https://profile-counter.glitch.me/eanorambuena/count.svg" />
 </p>
 
-## Python For Change Stats
-</p>
-<p align="center">
-  <a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pythonforchange&layout=compact">
-</p>
 
