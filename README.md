@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I'm eanorambuena!
 
 <!--
 **eanorambuena/eanorambuena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 👨‍💻
+- ** Certificate in Quantum Computing - *The Coding School x IBM* - 05/2021 **
+- ** Bachelor in Engineering Science - *PUC* - 11/2026 **
 
 ## Stats
 <p align="center">
