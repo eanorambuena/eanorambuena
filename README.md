@@ -38,7 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eanorambuena&show_icons=true&theme=vue-dark&count_private=true" />
 </a>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eanorambuena&layout=compact)](https://github.acom/eanorambuena/github-readme-stats)
+
 <p align="center">
     <img src="https://profile-counter.glitch.me/eanorambuena/count.svg" />
 </p>
