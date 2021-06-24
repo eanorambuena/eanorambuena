@@ -49,6 +49,6 @@
   </a>   
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://profile-counter.glitch.me/eanorambuena/count.svg" />
 </p>
