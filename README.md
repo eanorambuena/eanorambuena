@@ -3,6 +3,7 @@
 ## About me
 - 🌱 I’m currently learning a different thing each day
 - 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io)
+- 😄 My pronouns: whatever you want
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,7 +11,6 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 My pronouns: whatever you want
 
 ## CV
 ### Education
