@@ -34,13 +34,16 @@
 </p>
 
 ## My Stats
-<p align="center">
+
+![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&people=1&notable=1&achievements=1&lines=1&isocalendar=1&topics=1&isocalendar.duration=half-year&topics.mode=starred&topics.sort=stars&topics.limit=15&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&achievements.ignored=Reviewer%2C%20Scripter%2C%20Verified%2C%20Explorer%2C%20Great-follower%2C%20Great_worker&config.timezone=America%2FSantiago)
+
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=eanorambuena&show_icons=true&theme=vue-dark&count_private=true" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=eanorambuena&layout=compact />
   </a>   
@@ -49,5 +52,3 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/eanorambuena/count.svg" />
 </p>
- 
-![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&people=1&notable=1&achievements=1&lines=1&isocalendar=1&topics=1&isocalendar.duration=half-year&topics.mode=starred&topics.sort=stars&topics.limit=15&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&achievements.ignored=Reviewer%2C%20Scripter%2C%20Verified%2C%20Explorer%2C%20Great-follower%2C%20Great_worker&config.timezone=America%2FSantiago)
