@@ -21,7 +21,7 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://nqs.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/PythonForChange/NQS/blob/main/web/icon441x540.png" alt="nqs" width="30" height="40"/> </a> 
+  <a href="https://nqs.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/PythonForChange/NQS/blob/main/web/icon540x540.png" alt="nqs" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.wolfram.com/mathematica/" target="_blank"> <img src="https://www.wolfram.com/events/wolfram-technology-university-college-dublin-2019/img/spikey.png" alt="mathematica" width="40" height="40"/> </a> 
   <a href="Terminals" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a> 
