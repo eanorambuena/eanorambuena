@@ -2,7 +2,7 @@
 
 ## About me
 - 🌱 I’m currently learning a different thing each day
-- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io)
+- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io) and associated projects
 - 😄 My pronouns: whatever you want
 <!--
 - 👯 I’m looking to collaborate on ...
