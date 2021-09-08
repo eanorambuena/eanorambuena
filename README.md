@@ -29,9 +29,10 @@
 </p>
 <p align="left"> 
   <a href="https://qiskit.org/" target="_blank"> <img src="https://www.ryanlarose.com/uploads/1/1/5/8/115879647/published/qiskit.gif?1565092545" alt="qiskit" width="40" height="40"/> </a> 
+  <a href="https://quantum-computing.ibm.com/" target="_blank"> <img src="https://www.ibm.com/design/static/4682de52aa2bab44144b373a674ca4b5/2db66/Image_4.jpg" alt="ibm quantum" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://pyfoch.readthedocs.io/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/85047398?s=200&v=4" alt="pyfoch" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/es-cl/windows" target="_blank"> <img src="https://mykey.software/wp-content/uploads/2017/08/Windows-10-kaufen.png" alt="windows" width="40" height="40"/> </a>   
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://thumbs.gfycat.com/SlipperyDismalAssassinbug-size_restricted.gif" alt="windows" width="40" height="40"/> </a>   
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> </a>  
 </p>
 
