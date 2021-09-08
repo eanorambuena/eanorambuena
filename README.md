@@ -37,13 +37,4 @@
 
 ## My Stats
 
-![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&people=1&notable=1&achievements=1&lines=1&isocalendar=1&topics=1&isocalendar.duration=half-year&topics.mode=starred&topics.sort=stars&topics.limit=15&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&achievements.ignored=Reviewer%2C%20Scripter%2C%20Verified%2C%20Explorer%2C%20Great-follower%2C%20Great_worker&config.timezone=America%2FSantiago)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=eanorambuena&layout=compact />
-  </a>   
-</p>
-
-<img src="https://metrics.lecoq.io/eanorambuena?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSantiago"></img>
-
+![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&isocalendar=1&languages=1&people=1&lines=1&achievements=1&introduction=1&notable=1&repositories=1&activity=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=100&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&repositories.featured=PythonForChange%2Feggdriver&config.timezone=America%2FSantiago)
