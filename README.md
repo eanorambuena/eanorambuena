@@ -14,8 +14,9 @@
 
 ## CV
 ### Education
-- **Certificate in Quantum Computing** - *The Coding School x IBM* - 05/2021
-- **Bachelor in Engineering Science** - *PUC* - Coming soon
+- **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
+- **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
+- **Bachelor in Engineering Science** - *Pontificia Universidad Católica de Chile* - Coming soon
 
 ### Languages and Tools
 <p align="left"> 
