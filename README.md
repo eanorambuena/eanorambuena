@@ -41,4 +41,4 @@
 
 ![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&isocalendar=1&languages=1&people=1&lines=1&achievements=1&introduction=1&notable=1&repositories=1&activity=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=100&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&repositories.featured=PythonForChange%2Feggdriver&config.timezone=America%2FSantiago)
 
-![LinkedIn](www.linkedin.com/in/eanorambuena)
+![LinkedIn](https://www.linkedin.com/in/eanorambuena)
