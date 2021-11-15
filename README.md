@@ -2,7 +2,7 @@
 
 ## About me
 - 🌱 I’m currently learning a different thing each day
-- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io) and associated projects
+- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects
 
 <!--
 - 👯 I’m looking to collaborate on ...
