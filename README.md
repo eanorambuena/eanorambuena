@@ -22,12 +22,13 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://nqs.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/PythonForChange/NQS/blob/main/web/icon540x540.png" alt="nqs" width="40" height="40"/> </a> 
+  <a href="https://github.com/NateveLanguage" target="_blank"> <img src="https://github.com/NateveLanguage/Adam/blob/main/src/nateve_logo_squared.jpg" alt="nateve" width="40" height="40"/> </a>
+  <a href="https://nqs.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/PythonForChange/NQS/blob/main/web/icon540x540.png" alt="nqs" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.wolfram.com/mathematica/" target="_blank"> <img src="https://www.wolfram.com/events/wolfram-technology-university-college-dublin-2019/img/spikey.png" alt="mathematica" width="40" height="40"/> </a> 
-  <a href="Terminals" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a> 
-  
+  <a href="terminals" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a> 
 </p>
+
 <p align="left"> 
   <a href="https://qiskit.org/" target="_blank"> <img src="https://www.ryanlarose.com/uploads/1/1/5/8/115879647/published/qiskit.gif?1565092545" alt="qiskit" width="40" height="40"/> </a> 
   <a href="https://quantum-computing.ibm.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwr51Ts85lnhFO0CmFgI6iOGP1c2M9yfSTQ&usqp=CAU" alt="ibm quantum" width="40" height="40"/> </a> 
