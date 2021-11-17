@@ -1,14 +1,13 @@
 # Hi there 👋 I'm eanorambuena!
 
 ## About me
-- 🌱 I’m currently learning a different thing each day
+- 🌱 I’m currently learning Web Development
 - 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects
-
+- 👯 I’m looking to collaborate on Quantum Computing & Compilers Theory
+- 🤔 I’m looking for help with [Nateve Programming Language](https://github.com/NateveLanguage/Adam/issues)
+- 💬 Ask me about: Nateve Language Data Structures
+- 📫 How to reach me: eanorambuena@uc.cl
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
 
