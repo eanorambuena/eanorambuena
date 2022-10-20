@@ -13,6 +13,7 @@
 
 ## CV
 ### Education
+- **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2022* - 08/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
 - **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
 - **Bachelor in Engineering Science** - *Pontificia Universidad Católica de Chile* - Coming soon
