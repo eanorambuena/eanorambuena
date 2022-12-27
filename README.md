@@ -2,7 +2,7 @@
 
 ## About me
 - 🌱 I’m currently learning React + Firebase
-- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects
+<!--- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects-->
 - 👯 I’m looking to collaborate on Quantum Computing & Programming Languages Engines/Compilers/Interpreters
 - 🤔 I’m looking for help with [Nateve Programming Language](https://github.com/NateveLanguage/Adam/issues)
 - 💬 Ask me about: Nateve Language Data Structures
@@ -13,6 +13,7 @@
 
 ## CV
 ### Education
+- **Javascript Front End - React + Firebase Certificate** -*Ada School* - 12/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2022* - 08/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
 - **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
