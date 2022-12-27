@@ -13,7 +13,7 @@
 
 ## CV
 ### Education
-- **Javascript Front End - React + Firebase Certificate** -*Ada School* - 12/2022
+- **Certificate in Javascript Front End - React + Firebase** - *Ada School* - 12/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2022* - 08/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
 - **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
