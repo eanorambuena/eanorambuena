@@ -2,11 +2,11 @@
 
 ## About me
 - 🌱 I’m currently learning React + Firebase
-<!--- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects-->
 - 👯 I’m looking to collaborate on Quantum Computing & Programming Languages Engines/Compilers/Interpreters
 - 🤔 I’m looking for help with [Nateve Programming Language](https://github.com/NateveLanguage/Adam/issues)
 - 💬 Ask me about: Nateve Language Data Structures
 - 📫 How to reach me: eanorambuena@uc.cl
+<!--- 🔭 I’m currently working on [Python For Change Project](//pythonforchange.github.io), [Nateve Programming Language](https://github.com/NateveLanguage) and associated projects-->
 <!--
 - ⚡ Fun fact: ...
 -->
