@@ -1,20 +1,20 @@
 # Hi there 👋 I'm eanorambuena!
 
 ## About me
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on Quantum Computing & Programming Languages Engines/Compilers/Interpreters
-- 🤔 I’m looking for help with [Nateve Programming Language](https://github.com/NateveLanguage/Adam/issues)
-- 💬 Ask me about: Nateve Language Data Structures
-- 📫 How to reach me: eanorambuena@uc.cl
-- 🔭 I’m currently working on MifunC repo
+- 🌱 I’m currently learning Server Side Rendering
+- 👯 I’m looking to collaborate on JavaScript Frameworks, Quantum Computing, Programming Languages Engines/Compilers/Interpreters
+- 🤔 I’m looking for help with [Emmy.js](https://github.com/emmyjs/emmy-dom)
+- 💬 Ask me about: Web Components
+- 📫 How to reach me: [@eanorambuena](https://www.linkedin.com/in/eanorambuena/)
+- 🔭 I’m currently working on [Emmy.js](https://emmyjs.pages.dev/), a JavaScript library for building user interfaces. Inspired by React.js, it uses the platform's native APIs to render components, in a declarative way.
 
 ## CV
 ### Education
+- **Bachelor in Engineering Science** - *Pontificia Universidad Católica de Chile* - Coming soon
 - **Certificate in Javascript Front End - React + Firebase** - *Ada School* - 12/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2022* - 08/2022
 - **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
 - **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
-- **Bachelor in Engineering Science** - *Pontificia Universidad Católica de Chile* - Coming soon
 
 ### Languages and Tools
 <p align="left"> 
