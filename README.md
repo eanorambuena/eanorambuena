@@ -1,38 +1,51 @@
-# Hi there 👋 I'm eanorambuena!
+# 👨‍💻 Emmanuel Norambuena
 
-## About me
-- 💬 Ask me about: Web Components
-- 📫 How to reach me: [@eanorambuena](https://www.linkedin.com/in/eanorambuena/)
-- 🔭 I’m currently working on [Emmy.js](https://emmyjs.pages.dev/), a JavaScript library for building user interfaces. Inspired by React.js, it uses the platform's native APIs to render components, in a declarative way.
+### Software Engineer | Fullstack Architect & Data Enthusiast
 
-## CV
-### Education
-- **Bachelor in Engineering Science** - *Pontificia Universidad Católica de Chile* - Coming soon
-- **Certificate in Javascript Front End - React + Firebase** - *Ada School* - 12/2022
-- **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2022* - 08/2022
-- **Certificate of Quantum Excellence** - *IBM Quantum Qiskit Global Summer School 2021* - 08/2021
-- **Certificate in Quantum Computing** - *The Coding School x IBM Quantum* - 05/2021
+¡Hola! Soy Emmanuel Norambuena, Ingeniero de la Pontificia Universidad Católica de Chile con experiencia en el diseño y desarrollo de soluciones Fullstack, la arquitectura de sistemas escalables en la nube y el desarrollo de productos.
 
-### Languages and Tools
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://github.com/NateveLanguage" target="_blank"> <img src="https://github.com/NateveLanguage/Adam/blob/main/src/nateve_logo_squared.jpg" alt="nateve" width="40" height="40"/> </a>
-  <a href="https://nqs.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/PythonForChange/NQS/blob/main/web/icon540x540.png" alt="nqs" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.wolfram.com/mathematica/" target="_blank"> <img src="https://www.wolfram.com/events/wolfram-technology-university-college-dublin-2019/img/spikey.png" alt="mathematica" width="40" height="40"/> </a> 
-  <a href="terminals" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a> 
-</p>
+---
 
-<p align="left"> 
-  <a href="https://qiskit.org/" target="_blank"> <img src="https://www.ryanlarose.com/uploads/1/1/5/8/115879647/published/qiskit.gif?1565092545" alt="qiskit" width="40" height="40"/> </a> 
-  <a href="https://quantum-computing.ibm.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwr51Ts85lnhFO0CmFgI6iOGP1c2M9yfSTQ&usqp=CAU" alt="ibm quantum" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://pyfoch.readthedocs.io/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/85047398?s=200&v=4" alt="pyfoch" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://thumbs.gfycat.com/SlipperyDismalAssassinbug-size_restricted.gif" alt="windows" width="40" height="40"/> </a>   
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> </a>  
-</p>
+## 🚀 Enfoque y Propuesta de Valor
 
-## My Stats
+Mi objetivo es construir productos digitales robustos y de alto impacto, combinando la ingeniería de software con la visión estratégica:
 
-![Metrics](https://metrics.lecoq.io/eanorambuena?template=classic&repositories=1&notable=1&languages=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.pinned=6&config.timezone=America%2FSantiago)
+* **Arquitectura Fullstack Sólida:** Desarrollo End-to-End. Experiencia en la creación de APIs RESTful (Django/Python) y la construcción de experiencias de usuario modernas y tipadas (React/TypeScript).
+* **Desarrollo Multiplataforma:** Capacidad de entregar soluciones tanto Web (Next.js, Vercel) como Móviles (Manejo del ecosistema **React Native** y **Expo**).
+* **Cloud & Escalabilidad:** Experiencia práctica con infraestructura en la Nube (**AWS**, Azure DevOps) y gestión de bases de datos relacionales (Postgres/Supabase).
+* **Algoritmia y Data:** Interés y aplicación de modelos complejos de Inteligencia Artificial (Keras) y simulación (**Monte Carlo**) para optimización y toma de decisiones.
+
+---
+
+## ⚙️ Tecnologías y Herramientas
+
+| Categoría | Stack Principal |
+| :--- | :--- |
+| **Lenguajes** | TypeScript, Python, JavaScript, SQL, Node.js. |
+| **Frontend/Mobile** | React, React Native, Next.js, Vite, **Expo**, Tailwind CSS. |
+| **Backend/DB** | Django, Supabase (Postgres), Firebase, APIs RESTful. |
+| **Cloud/DevOps** | **AWS**, Azure DevOps Server, Vercel, Git, Github Actions, Terraform. |
+| **Data/AI** | Keras, PythonForChange (Quantum), Monte Carlo Algorithms. |
+
+---
+
+## 📌 Proyectos Destacados
+
+1.  **Capstone Project (App Móvil):** Aplicación desarrollada con **React Native y Expo**. Demuestra la capacidad de llevar productos a plataformas móviles.
+2.  **Portfolio Optimizer:** Implementación de modelos de **Monte Carlo** y Series de Tiempo. Excelente ejemplo de aplicación de algoritmia compleja a problemas reales.
+3.  **IDS UC / Loopaas:** Plataforma de evaluación de pares usada por +1,500 estudiantes. Muestra experiencia en escalabilidad, arquitectura **Fullstack** y gestión de bases de datos.
+
+---
+
+## 🎓 Educación y Certificaciones
+
+* **Ingeniería Industrial Computación** - Pontificia Universidad Católica de Chile.
+* **Intercambio Académico** - Maastricht University, Países Bajos.
+* **Certificaciones Clave:** Javascript Front End - React + Firebase, Qiskit Global Summer School Excellence.
+
+---
+
+### 🌐 ¡Conectemos!
+
+[LinkedIn] (https://linkedin.com/in/eanorambuena)
+[Correo] eanorambuena@uc.cl
