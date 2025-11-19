@@ -49,5 +49,5 @@ Esta matriz agrupa tus habilidades clave para que el desarrollador las identifiq
 ---
 ### 🔗 ¡Conectemos!
 
-[LinkedIn] (https://linkedin.com/in/eanorambuena)
-[Correo] eanorambuena@uc.cl
+![LinkedIn](https://linkedin.com/in/eanorambuena)
+![Correo](eanorambuena@uc.cl)
