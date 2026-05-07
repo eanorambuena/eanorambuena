@@ -27,8 +27,6 @@
     </td>
   </tr>
 </table>
-                                                                                    
-                                                                                    ---
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +77,6 @@
     <p style="color: #64748B; font-size: 0.9em;">JavaScript • AI • Performance • Open Source</p>
   </div>
 
-  
   <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
     <h3 style="color: #0F766E; margin-top: 0;">📊 Portfolio Optimizer (Data/AI)</h3>
     <p style="color: #475569;">Implementación de modelos de <strong>Monte Carlo</strong> y análisis de series de tiempo. Aplicación de algoritmos complejos a problemas de optimización financiera.</p>
@@ -99,7 +96,6 @@
   </div>
 
 </div>
-
 
 ## 🎓 Educación & Reconocimientos
 
