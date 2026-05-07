@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F766E&center=true&width=600&lines=👨‍💻+Emmanuel+Norambuena;Fullstack+Architect+%26+Data+Engineer;Building+Scalable+Digital+Products" alt="Greeting">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F766E&center=true&width=600&lines=Emmanuel+Norambuena;Fullstack+Architect+%26+Data+Engineer;Building+Scalable+Digital+Products" alt="Greeting">
   
-  <h1 style="color: #0F766E; font-size: 2.5em; margin: 20px 0;">Emmanuel Norambuena</h1>
+  <h1 style="color: #0F766E; font-size: 2.5em; margin: 20px 0;">👨‍💻 Emmanuel Norambuena</h1>
   <p style="font-size: 1.2em; color: #475569;">Software Engineer | Fullstack Architect | Data Enthusiast</p>
   <p style="font-size: 1em; color: #64748B; max-width: 600px; margin: 20px auto;">
     🇨🇱 Ingeniero de la Pontificia Universidad Católica de Chile<br>
