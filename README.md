@@ -58,6 +58,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ### 🤖 Data Science & ML
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -74,6 +75,7 @@
   <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
     <h3 style="color: #0F766E; margin-top: 0;">🚀 Emmy.js (Open Source Library)</h3>
     <p style="color: #475569;">Librería JavaScript de código abierto para sistemas de recomendación con IA. Herramienta clave para optimización de modelos ML en producción.</p>
+    <p style="color: #475569; margin: 12px 0;"><a href="https://emmyjs.pages.dev/" style="color: #0F766E; text-decoration: none; font-weight: bold;">📚 Documentación</a> | <a href="https://github.com/emmyjs/emmy-dom" style="color: #0F766E; text-decoration: none; font-weight: bold;">💻 Repositorio</a></p>
     <p style="color: #64748B; font-size: 0.9em;">JavaScript • AI • Performance • Open Source</p>
   </div>
 
@@ -121,7 +123,7 @@
 ## 🤝 Conectemos
 
 <div align="center">
-  <p style="margin-bottom: 15px; font-size: 1.1em; color: #475569;">💬 Abierto a colaboraciones, mentorías y nuevos desafíos</p>
+  <p style="margin-bottom: 15px; font-size: 1.1em; color: #475569;">💬 <strong>Open to new challenges:</strong> Buscando roles como <strong>Product Engineer, Tech Lead o Founding Engineer</strong> en modalidad <strong>Remota</strong> (LATAM / Europa). Siempre dispuesto a conversar sobre arquitecturas Serverless, gobernanza de IA y desarrollo de producto.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1917)](https://linkedin.com/in/eanorambuena)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1917)](mailto:eanorambuena@uc.cl)
