@@ -8,7 +8,6 @@
     Especializado en sistemas escalables, computación en la nube y algoritmia avanzada
   </p>
 </div>
----
 
 ## 🎯 Propuesta de Valor
 
@@ -62,7 +61,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
-                                                                                    ---
+
 
 ## 📚 Proyectos Destacados
 
@@ -87,7 +86,7 @@
   </div>
 
 </div>
-                                                                                                                                      ---
+
 
 ## 🎓 Educación & Reconocimientos
 
@@ -108,8 +107,6 @@
 
 </div>
 
----
-
 ## 🤝 Conectemos
 
 <div align="center">
@@ -120,8 +117,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C1917)](https://github.com/eanorambuena)
 
 </div>
-
----
 
 <div align="center">
   <p style="color: #64748B; font-size: 0.9em; margin-top: 30px;">
