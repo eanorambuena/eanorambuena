@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F766E&center=true&width=600&lines=Emmanuel+Norambuena;Fullstack+Architect+%26+Data+Engineer;Building+Scalable+Digital+Products" alt="Greeting">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F766E&center=true&width=600&lines=Emmanuel+Norambuena;Fullstack+Product+Engineer;Creator+of+Emmy.js" alt="Greeting">
   
   <h1 style="color: #0F766E; font-size: 2.5em; margin: 20px 0;">👨‍💻 Emmanuel Norambuena</h1>
-  <p style="font-size: 1.2em; color: #475569;">Software Engineer | Fullstack Architect | Data Enthusiast</p>
+  <p style="font-size: 1.2em; color: #475569;">Software Engineer | Mobile & Cloud Architect</p>
   <p style="font-size: 1em; color: #64748B; max-width: 600px; margin: 20px auto;">
     🇨🇱 Ingeniero de la Pontificia Universidad Católica de Chile<br>
     Especializado en sistemas escalables, computación en la nube y algoritmia avanzada
@@ -22,8 +22,8 @@
       <p style="color: #475569;">AWS, escalabilidad y DevOps para infraestructura de alto rendimiento</p>
     </td>
     <td width="33%" align="center">
-      <h3 style="color: #0F766E;">📊 Data & AI</h3>
-      <p style="color: #475569;">Monte Carlo, Machine Learning y análisis de datos avanzado</p>
+      <h3 style="color: #0F766E;">🤖 AI Governance & Cloud Native</h3>
+      <p style="color: #475569;">Arquitecturas Serverless (SST) y optimización de costos mediante AI Governance (Cursor Rules)</p>
     </td>
   </tr>
 </table>
@@ -35,19 +35,24 @@
 <div align="center">
 
 ### 💻 Backend & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-F3702A?style=flat-square&logo=hono&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5D9F1?style=flat-square&logo=drizzle&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tamagui](https://img.shields.io/badge/Tamagui-FDD835?style=flat-square&logo=tamagui&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+![SST](https://img.shields.io/badge/SST-000000?style=flat-square&logo=serverless&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,6 +71,12 @@
 ## 📚 Proyectos Destacados
 
 <div style="display: grid; gap: 20px; margin: 20px 0;">
+  <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
+    <h3 style="color: #0F766E; margin-top: 0;">🚀 Emmy.js (Open Source Library)</h3>
+    <p style="color: #475569;">Librería JavaScript de código abierto para sistemas de recomendación con IA. Herramienta clave para optimización de modelos ML en producción.</p>
+    <p style="color: #64748B; font-size: 0.9em;">JavaScript • AI • Performance • Open Source</p>
+  </div>
+
   
   <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
     <h3 style="color: #0F766E; margin-top: 0;">📊 Portfolio Optimizer (Data/AI)</h3>
@@ -74,15 +85,15 @@
   </div>
 
   <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
-    <h3 style="color: #0F766E; margin-top: 0;">📱 Capstone Project (Mobile)</h3>
-    <p style="color: #475569;">Aplicación multiplataforma desarrollada con <strong>React Native y Expo</strong>. Demostración de capacidad para llevar productos a iOS y Android.</p>
-    <p style="color: #64748B; font-size: 0.9em;">React Native • Expo • TypeScript</p>
+    <h3 style="color: #0F766E; margin-top: 0;">📱 HOP Platform (Mobile & Cloud)</h3>
+    <p style="color: #475569;">Migración de arquitectura móvil a <strong>Tamagui/Expo</strong> y desarrollo Cloud Native con <strong>SST</strong>. Reducción del 100% en costos de APIs de IA mediante gobernanza inteligente.</p>
+    <p style="color: #64748B; font-size: 0.9em;">Tamagui • Expo • SST • TypeScript • AI Governance</p>
   </div>
 
   <div style="border: 2px solid #14B8A6; border-radius: 8px; padding: 20px; background-color: #F0FDFA;">
     <h3 style="color: #0F766E; margin-top: 0;">🎓 IDS UC / Loopaas (Fullstack)</h3>
-    <p style="color: #475569;">Plataforma de evaluación de pares utilizada por <strong>+1,500 estudiantes</strong>. Ejemplo de escalabilidad y arquitectura fullstack en producción.</p>
-    <p style="color: #64748B; font-size: 0.9em;">Django • React • PostgreSQL</p>
+    <p style="color: #475569;">Plataforma SaaS de evaluación de pares utilizada por <strong>+1,500 estudiantes</strong>. Arquitectura moderna fullstack con optimizaciones de rendimiento.</p>
+    <p style="color: #64748B; font-size: 0.9em;">Next.js • React • Supabase • TypeScript</p>
   </div>
 
 </div>
