@@ -8,7 +8,6 @@
     Especializado en sistemas escalables, computación en la nube y algoritmia avanzada
   </p>
 </div>
-
 ---
 
 ## 🎯 Propuesta de Valor
@@ -29,8 +28,8 @@
     </td>
   </tr>
 </table>
-
----
+                                                                                    
+                                                                                    ---
 
 ## 🛠️ Tech Stack
 
@@ -63,8 +62,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
-
----
+                                                                                    ---
 
 ## 📚 Proyectos Destacados
 
@@ -89,8 +87,7 @@
   </div>
 
 </div>
-
----
+                                                                                                                                      ---
 
 ## 🎓 Educación & Reconocimientos
 
@@ -108,7 +105,7 @@
     <li>JavaScript Front End Developer (React + Firebase)</li>
     <li>Qiskit Global Summer School Excellence</li>
   </ul>
-  
+
 </div>
 
 ---
