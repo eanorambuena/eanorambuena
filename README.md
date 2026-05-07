@@ -49,5 +49,6 @@ Esta matriz agrupa tus habilidades clave para que el desarrollador las identifiq
 ---
 ### 🔗 ¡Conectemos!
 
-![LinkedIn](https://linkedin.com/in/eanorambuena)
-![Correo](eanorambuena@uc.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eanorambuena)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eanorambuena@uc.cl)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eanorambuena)
